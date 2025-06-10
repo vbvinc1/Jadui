@@ -1,0 +1,59 @@
+# TechPremium Web Stories Pro
+# Copyright (C) 2024 TechPremium
+# This file is distributed under the same license as the TechPremium Web Stories Pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TechPremium Web Stories Pro 1.0.0\n"
+"Report-Msgid-Bugs-To: https://techpremium.me/support\n"
+"POT-Creation-Date: 2024-01-01 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/class-techpremium-ws-pro-admin.php:123
+msgid "All Stories"
+msgstr ""
+
+#: admin/class-techpremium-ws-pro-admin.php:132
+msgid "Add New"
+msgstr ""
+
+#: admin/class-techpremium-ws-pro-admin.php:141
+msgid "Templates"
+msgstr ""
+
+#: admin/class-techpremium-ws-pro-admin.php:150
+msgid "SEO Settings"
+msgstr ""
+
+#: admin/class-techpremium-ws-pro-admin.php:159
+msgid "Analytics"
+msgstr ""
+
+#: admin/class-techpremium-ws-pro-admin.php:168
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/techpremium-ws-pro-admin-display.php:25
+msgid "TechPremium Web Stories Pro"
+msgstr ""
+
+#: admin/partials/techpremium-ws-pro-admin-display.php:26
+msgid "Create, manage, and optimize stunning web stories with advanced features and seamless Google Web Stories integration."
+msgstr ""
+
+#: includes/seo/class-techpremium-ws-pro-seo.php:234
+msgid "Add a compelling title to your story."
+msgstr ""
+
+#: includes/seo/class-techpremium-ws-pro-seo.php:238
+msgid "Your title is too short. Consider making it more descriptive."
+msgstr ""
+
+#: includes/seo/class-techpremium-ws-pro-seo.php:242
+msgid "Your title might be too long for search results."
+msgstr ""
